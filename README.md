@@ -16,9 +16,7 @@ I am Rishabh Maurya, a recent graduate with a B.E. in Artificial Intelligence an
 - **Programming Languages**: C, Python, SQL, NoSQL
 - **Certifications**: 
   - SQL (HackerRank)
-  - CSS (HackerRank)
   - Python (GreatLearning)
-  - HTML (GreatLearning)
 
 #### Interests
 
